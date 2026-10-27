@@ -1,0 +1,79 @@
+[
+  {
+    "who": "老周",
+    "aliases": [
+      "老周"
+    ],
+    "cannotSay": [
+      "左臂刻痕各道分别是什么"
+    ],
+    "why": "他指自己的嘴摇头，不答。",
+    "sinceChapter": 3
+  },
+  {
+    "who": "陈默",
+    "aliases": [
+      "陈默"
+    ],
+    "cannotSay": [
+      "B2有无人皮鞋的事"
+    ],
+    "why": "赵姐当面封口，传开她压不住献祭派",
+    "sinceChapter": 5
+  },
+  {
+    "who": "chenmo",
+    "aliases": [
+      "陈哥"
+    ],
+    "cannotSay": [
+      "念母亲时眼皮没跳"
+    ],
+    "why": "他要求小王对赵姐谎称他念时眼皮跳得厉害，以把“念名字不跳的往后排”的规则引开",
+    "sinceChapter": 6
+  },
+  {
+    "who": "老周",
+    "aliases": [
+      "老周"
+    ],
+    "cannotSay": [
+      "周正不是别人，是刻字那个人自己忘掉的（后半句）"
+    ],
+    "why": "喉咙像被塞子堵住，无法出声",
+    "sinceChapter": 8
+  },
+  {
+    "who": "chenmo",
+    "aliases": [
+      "陈默"
+    ],
+    "cannotSay": [
+      "三年前的事"
+    ],
+    "why": "赵姐封口：敢往外说一个字，明早五点名单第一个写他",
+    "sinceChapter": 9
+  },
+  {
+    "who": "xiaowang",
+    "aliases": [
+      "小王"
+    ],
+    "cannotSay": [
+      "宿主自愿若被胁迫规则不认"
+    ],
+    "why": "当众不敢念全，怕念出来等于说陈默可能白死",
+    "sinceChapter": 10
+  },
+  {
+    "who": "zhaojie",
+    "aliases": [
+      "赵姐"
+    ],
+    "cannotSay": [
+      "自己的全名"
+    ],
+    "why": "被问全名时喉咙卡住，只能说出“我姓赵”",
+    "sinceChapter": 12
+  }
+]

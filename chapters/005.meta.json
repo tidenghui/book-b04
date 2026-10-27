@@ -1,0 +1,51 @@
+{
+  "n": 5,
+  "title": "第五夜",
+  "status": "accepted",
+  "wordCount": 2854,
+  "summary": "赵姐逼陈默报名字，陈默反问她叫什么，她只答“我姓赵”，人群无人应声，她自行退进货梯下B2。陈默发现自己左臂多出自己笔迹的“赵”字刻痕，而掌心从未留住过任何刻字，意识到有人用他的笔迹在记账。",
+  "coldRead": {
+    "votes": 3,
+    "total": 3,
+    "notes": [
+      "老书虫：继续 — 谜底一层层往前推是有效的，赵字刻在自己手臂上的收尾也够狠，就是有些对白和比喻用力过头。",
+      "通勤读者：继续 — 前面翻车位翻得有点累，最后那下翻手掌真给我干清醒了，这章值在结尾",
+      "解谜读者：继续 — 赵姐被一个姓名逼进B2这手够狠，但掌心从没留住过字这个反转才是真钩子——前面四章的刻字规矩全被掀了桌"
+    ]
+  },
+  "critics": [
+    {
+      "name": "连续性编辑",
+      "score": 6,
+      "verdict": "revise",
+      "defects": 5
+    },
+    {
+      "name": "角色一致性",
+      "score": 6,
+      "verdict": "revise",
+      "defects": 5
+    },
+    {
+      "name": "节奏编辑",
+      "score": 6,
+      "verdict": "revise",
+      "defects": 6
+    },
+    {
+      "name": "逻辑审查",
+      "score": 6,
+      "verdict": "revise",
+      "defects": 6
+    },
+    {
+      "name": "文风审查",
+      "score": 6,
+      "verdict": "revise",
+      "defects": 6
+    }
+  ],
+  "revisions": 0,
+  "costCny": 0.422,
+  "createdAt": "2026-10-25T05:21:59.111Z"
+}
